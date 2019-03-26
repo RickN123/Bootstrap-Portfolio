@@ -77,8 +77,8 @@
     color: white;
     text-align: center;
     font size:16px;
-    margin-right:480px;
-    margin-top:20;
+    margin-right:auto;
+    margin-top:auto;
   }
   #airplane {
     display: block;
@@ -92,10 +92,10 @@
     color: white;
     text-align: center;
     font size:16px;
-    margin-top:3%;
-    margin-left:13%;
-    margin-bottom:420px;
-    margin-right:480px;
+    margin-top:auto;
+    margin-left:auto;
+    margin-bottom:auto;
+    margin-right:auto;
   }
 #soccer{
   display: block;
@@ -121,7 +121,7 @@
   color: white;
   text-align: center;
   font size:16px;  
-  margin right: 25px;
+  margin right: auto;
   position:relative;
 }
   #content { 
@@ -135,7 +135,7 @@
     text-align: justify;
     top: 0;
     left: 0;
-    margin-left:300px;
+    margin-left:auto;
     margin-right:300px;
     align: center;
     background-position: relative;
