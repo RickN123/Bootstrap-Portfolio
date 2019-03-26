@@ -1,6 +1,24 @@
 * {
     box-sizing: border-box;
   }
+
+}@media screen and (max-width: 640px) {
+    /* The body's bg color will be #333 */
+  
+    body {
+        margin-left:auto;
+        margin-right:auto;
+        margin-top: auto;
+        margin-bottom:auto;
+    }
+    #container {
+        margin-left:auto;
+        margin-right:auto;
+        margin-top: auto;
+        margin-bottom:auto;
+    }
+
+}
   #header{
     background-color: #ffffff;
     height: 40px;
