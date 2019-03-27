@@ -10,14 +10,30 @@
     font: georgia;
     border-bottom-style: solid;
     border-color: #cccccc;
+    display:inline-block;
+    float:none;
+    text-align: justify;
+    width:auto;
 
   }
+  #container {
+    text-align: center;
+  }
+
   #name1 {
     display:inline-block;
 
   }
   body {
     margin: auto;
+    width: 100%;
+    flex: center;
+  }
+
+  #header {
+    width:100%;
+    text-align: center;
+
   }
   #name1 {
     background-color:aqua;
