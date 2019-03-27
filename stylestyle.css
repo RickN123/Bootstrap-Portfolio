@@ -2,8 +2,7 @@
     box-sizing: border-box;
   }
 
-}@media screen and (max-width: 640px) {
-    /* The body's bg color will be #333 */
+@media screen and (max-width: 640px) {
   
     body {
         margin-left:auto;
